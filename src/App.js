@@ -7,9 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h3>Coming Soon!</h3>
         <p>
-          We are coming soon! hi@tupweb.tech
+        Experimenting with small and crazy ideas that makes sense. 
         </p>
+        <h2>hi@tuplab.tech</h2>
         <a
           className="App-link"
           href="https://www.linkedin.com/company/tuplab/"
