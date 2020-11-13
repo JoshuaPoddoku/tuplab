@@ -1,6 +1,6 @@
-<img src="src/tuplab-logo.png" />
+<img src="public/tuplab-logo-sm.png" />
 
-Place where ideas come alive, get conceptualized and developed 🚀
+#### Place where ideas come alive, get conceptualized and developed 🚀
 
 
 # Design

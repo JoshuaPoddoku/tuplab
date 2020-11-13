@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "projectName": "TUP Lab",
+        "description":"",
+        "logo":"",
+        "category":[],
+        "type":"myLab"
+    },
+    {
+        "id": 2,
+        "projectName": "The Unpretentious WEB",
+        "description":"",
+        "logo":"",
+        "category":[],
+        "type":"myLab"
+    },
+    {
+        "id": 3,
+        "projectName": "The Unpretentious FAITH",
+        "description":"",
+        "logo":"",
+        "category":[],
+        "type":"myLab"
+    },
+    {
+        "id": 4,
+        "projectName": "The Unpretentious LIFE",
+        "description":"",
+        "logo":"",
+        "category":[],
+        "type":"myLab"
+    },
+    {
+        "id": 5,
+        "projectName": "The Tesseract",
+        "description":"",
+        "logo":"",
+        "category":[],
+        "type":"Collaboration"
+    },
+    {
+        "id": 6,
+        "projectName": "Yureka Digital",
+        "description":"",
+        "logo":"",
+        "category":[],
+        "type":"myLab"
+    },
+    {
+        "id": 7,
+        "projectName": "TUPLAB: Idea Lab",
+        "description":"",
+        "logo":"",
+        "category":[],
+        "type":"myLab"
+    },
+    {
+        "id": 8,
+        "projectName": "TUP Lab",
+        "description":"",
+        "logo":"",
+        "category":[],
+        "type":"myLab"
+    }
+]
