@@ -1,12 +1,13 @@
-
 import logo from './tuplab-logo.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <nav className="nav">
+      <img src={logo} class="logo" alt="TupLab" />
+      </nav>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <h3>Coming Soon!</h3>
         <p>
         Experimenting with small and crazy ideas that makes sense. 
@@ -18,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Explore
+         Subscribe
         </a>
       </header>
     </div>
